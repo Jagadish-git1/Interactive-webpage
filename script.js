@@ -12,7 +12,7 @@ function sign(){
     window.open("https://accounts.google.co.in/");
 }
 function fb(){
-    window.open("https://www.facebook.com");
+    window.open("https://www.facebook.com/");
 }
 function ig(){
     window.open("https://www.instagram.com");
