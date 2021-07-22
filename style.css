@@ -5,6 +5,7 @@
 }
 body{
     background-image: url('background.png');
+    background-repeat: no-repeat;
 }
 .hero{
     width: 100%;
